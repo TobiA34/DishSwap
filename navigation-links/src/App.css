@@ -1,0 +1,42 @@
+
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+div {
+  padding: 0;
+}
+
+
+img { 
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.Card{
+  padding: 0;
+  margin: 0;
+}
+
+ 
+.brand {
+    position: relative;
+    text-align: center;
+}
+
+
+#success {
+   position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
+ 
